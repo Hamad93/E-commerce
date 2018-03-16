@@ -1,9 +1,4 @@
-commerce_user:
-    resource: "@CommerceUserBundle/Resources/config/routing.yml"
-    prefix:   /
-
 commerce_admin:
-    resource: "@CommerceAdminBundle/Controller/"
-    type:     annotation
+    resource: "@CommerceAdminBundle/Resources/config/routing.yml"
     prefix:   /
 

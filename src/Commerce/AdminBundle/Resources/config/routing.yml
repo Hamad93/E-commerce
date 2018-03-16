@@ -1,0 +1,9 @@
+commerce_user:
+    resource: "@CommerceUserBundle/Resources/config/routing.yml"
+    prefix:   /user
+
+
+
+commerce_admin_homepage:
+    path:     /
+    defaults: { _controller: CommerceAdminBundle:Default:index }
