@@ -1,0 +1,4 @@
+services:
+#    commerce_user.example:
+#        class: Commerce\UserBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]

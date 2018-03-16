@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="21bfc497-2833-4d9b-ab45-a4193ad9a9ce" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="config.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/config/config.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-369">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1521221158147" expanded="true" signature="0:109" ph="imports: &lt;3 items&gt;" />
+                <marker date="1521221158147" expanded="true" signature="376:402" ph="parameters: &lt;1 key&gt;" />
+                <marker date="1521221158147" expanded="true" signature="400:402" ph="en" />
+                <marker date="1521221158147" expanded="true" signature="404:1104" ph="framework: &lt;12 keys&gt;" />
+                <marker date="1521221158147" expanded="true" signature="484:494" ph="%secret%" />
+                <marker date="1521221158147" expanded="true" signature="499:601" ph="router: &lt;2 keys&gt;" />
+                <marker date="1521221158147" expanded="true" signature="525:570" ph="%kernel.p…outing.yml" />
+                <marker date="1521221158147" expanded="true" signature="641:681" ph="validation: {1 key}" />
+                <marker date="1521221158147" expanded="true" signature="675:679" ph="true" />
+                <marker date="1521221158147" expanded="true" signature="748:758" ph="%locale%" />
+                <marker date="1521221158147" expanded="true" signature="784:1008" ph="session: &lt;2 keys&gt;" />
+                <marker date="1521221158147" expanded="true" signature="905:932" ph="session.h…ative_file" />
+                <marker date="1521221158147" expanded="true" signature="952:1008" ph="%kernel.p…vironment%" />
+                <marker date="1521221158147" expanded="true" signature="1052:1056" ph="true" />
+                <marker date="1521221158147" expanded="true" signature="1075:1104" ph="php_errors: &lt;1 key&gt;" />
+                <marker date="1521221158147" expanded="true" signature="1100:1104" ph="true" />
+                <marker date="1521221158147" expanded="true" signature="1127:1199" ph="twig: &lt;2 keys&gt;" />
+                <marker date="1521221158147" expanded="true" signature="1144:1160" ph="%kernel.debug%" />
+                <marker date="1521221158147" expanded="true" signature="1183:1199" ph="%kernel.debug%" />
+                <marker date="1521221158147" expanded="true" signature="1226:1929" ph="doctrine: &lt;2 keys&gt;" />
+                <marker date="1521221158147" expanded="true" signature="1240:1463" ph="dbal: &lt;7 keys&gt;" />
+                <marker date="1521221158147" expanded="true" signature="1262:1271" ph="pdo_mysql" />
+                <marker date="1521221158147" expanded="true" signature="1286:1303" ph="%database_host%" />
+                <marker date="1521221158147" expanded="true" signature="1318:1335" ph="%database_port%" />
+                <marker date="1521221158147" expanded="true" signature="1352:1369" ph="%database_name%" />
+                <marker date="1521221158147" expanded="true" signature="1384:1401" ph="%database_user%" />
+                <marker date="1521221158147" expanded="true" signature="1420:1441" ph="%database_password%" />
+                <marker date="1521221158147" expanded="true" signature="1459:1463" ph="UTF8" />
+                <marker date="1521221158147" expanded="true" signature="1779:1929" ph="orm: &lt;3 keys&gt;" />
+                <marker date="1521221158147" expanded="true" signature="1821:1837" ph="%kernel.debug%" />
+                <marker date="1521221158147" expanded="true" signature="1863:1902" ph="doctrine.…underscore" />
+                <marker date="1521221158147" expanded="true" signature="1925:1929" ph="true" />
+                <marker date="1521221158147" expanded="true" signature="1987:2007" ph="%mailer_transport%" />
+                <marker date="1521221158147" expanded="true" signature="2018:2033" ph="%mailer_host%" />
+                <marker date="1521221158147" expanded="true" signature="2048:2063" ph="%mailer_user%" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="services.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/config/services.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AppKernel.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/AppKernel.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+              <folding>
+                <marker date="1521221705429" expanded="true" signature="232:1450" ph="{...}" />
+                <marker date="1521221705429" expanded="true" signature="259:850" ph="..." />
+                <marker date="1521221705429" expanded="true" signature="925:1417" ph="..." />
+                <marker date="1521221705429" expanded="true" signature="1223:1407" ph="..." />
+                <marker date="1521221705429" expanded="true" signature="1484:1520" ph="{...}" />
+                <marker date="1521221705429" expanded="true" signature="1555:1638" ph="{...}" />
+                <marker date="1521221705429" expanded="true" signature="1671:1728" ph="{...}" />
+                <marker date="1521221705429" expanded="true" signature="1834:2099" ph="..." />
+                <marker date="1521221705429" expanded="true" signature="1874:2098" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="composer.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/composer.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="544">
+              <caret line="32" column="33" lean-forward="false" selection-start-line="32" selection-start-column="33" selection-end-line="32" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DefaultController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Commerce/AdminBundle/Controller/DefaultController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="14" column="39" lean-forward="false" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="routing.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/config/routing.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/config/routing.yml" />
+        <option value="$PROJECT_DIR$/app/config/services.yml" />
+        <option value="$PROJECT_DIR$/app/AppKernel.php" />
+        <option value="$PROJECT_DIR$/src/Commerce/AdminBundle/Controller/DefaultController.php" />
+        <option value="$PROJECT_DIR$/composer.json" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-108" />
+    <option name="y" value="373" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="E-commerce" type="b2602c69:ProjectViewProjectNode" />
+              <item name="E-commerce" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="E-commerce" type="b2602c69:ProjectViewProjectNode" />
+              <item name="E-commerce" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="E-commerce" type="b2602c69:ProjectViewProjectNode" />
+              <item name="E-commerce" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="config" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="E-commerce" type="b2602c69:ProjectViewProjectNode" />
+              <item name="E-commerce" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="E-commerce" type="b2602c69:ProjectViewProjectNode" />
+              <item name="E-commerce" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Commerce" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="E-commerce" type="b2602c69:ProjectViewProjectNode" />
+              <item name="E-commerce" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Commerce" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="AdminBundle" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="E-commerce" type="b2602c69:ProjectViewProjectNode" />
+              <item name="E-commerce" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Commerce" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="AdminBundle" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Controller" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="E-commerce" type="b2602c69:ProjectViewProjectNode" />
+              <item name="E-commerce" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Commerce" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="AdminBundle" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Resources" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="E-commerce" type="b2602c69:ProjectViewProjectNode" />
+              <item name="E-commerce" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Commerce" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="AdminBundle" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Resources" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="E-commerce" type="b2602c69:ProjectViewProjectNode" />
+              <item name="E-commerce" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Commerce" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="AdminBundle" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Resources" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Default" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="web.server" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="21bfc497-2833-4d9b-ab45-a4193ad9a9ce" name="Default" comment="" />
+      <created>1521220975326</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1521220975326</updated>
+      <workItem from="1521220976677" duration="1310000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1310000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/config/config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-369">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1521221158147" expanded="true" signature="0:109" ph="imports: &lt;3 items&gt;" />
+            <marker date="1521221158147" expanded="true" signature="376:402" ph="parameters: &lt;1 key&gt;" />
+            <marker date="1521221158147" expanded="true" signature="400:402" ph="en" />
+            <marker date="1521221158147" expanded="true" signature="404:1104" ph="framework: &lt;12 keys&gt;" />
+            <marker date="1521221158147" expanded="true" signature="484:494" ph="%secret%" />
+            <marker date="1521221158147" expanded="true" signature="499:601" ph="router: &lt;2 keys&gt;" />
+            <marker date="1521221158147" expanded="true" signature="525:570" ph="%kernel.p…outing.yml" />
+            <marker date="1521221158147" expanded="true" signature="641:681" ph="validation: {1 key}" />
+            <marker date="1521221158147" expanded="true" signature="675:679" ph="true" />
+            <marker date="1521221158147" expanded="true" signature="748:758" ph="%locale%" />
+            <marker date="1521221158147" expanded="true" signature="784:1008" ph="session: &lt;2 keys&gt;" />
+            <marker date="1521221158147" expanded="true" signature="905:932" ph="session.h…ative_file" />
+            <marker date="1521221158147" expanded="true" signature="952:1008" ph="%kernel.p…vironment%" />
+            <marker date="1521221158147" expanded="true" signature="1052:1056" ph="true" />
+            <marker date="1521221158147" expanded="true" signature="1075:1104" ph="php_errors: &lt;1 key&gt;" />
+            <marker date="1521221158147" expanded="true" signature="1100:1104" ph="true" />
+            <marker date="1521221158147" expanded="true" signature="1127:1199" ph="twig: &lt;2 keys&gt;" />
+            <marker date="1521221158147" expanded="true" signature="1144:1160" ph="%kernel.debug%" />
+            <marker date="1521221158147" expanded="true" signature="1183:1199" ph="%kernel.debug%" />
+            <marker date="1521221158147" expanded="true" signature="1226:1929" ph="doctrine: &lt;2 keys&gt;" />
+            <marker date="1521221158147" expanded="true" signature="1240:1463" ph="dbal: &lt;7 keys&gt;" />
+            <marker date="1521221158147" expanded="true" signature="1262:1271" ph="pdo_mysql" />
+            <marker date="1521221158147" expanded="true" signature="1286:1303" ph="%database_host%" />
+            <marker date="1521221158147" expanded="true" signature="1318:1335" ph="%database_port%" />
+            <marker date="1521221158147" expanded="true" signature="1352:1369" ph="%database_name%" />
+            <marker date="1521221158147" expanded="true" signature="1384:1401" ph="%database_user%" />
+            <marker date="1521221158147" expanded="true" signature="1420:1441" ph="%database_password%" />
+            <marker date="1521221158147" expanded="true" signature="1459:1463" ph="UTF8" />
+            <marker date="1521221158147" expanded="true" signature="1779:1929" ph="orm: &lt;3 keys&gt;" />
+            <marker date="1521221158147" expanded="true" signature="1821:1837" ph="%kernel.debug%" />
+            <marker date="1521221158147" expanded="true" signature="1863:1902" ph="doctrine.…underscore" />
+            <marker date="1521221158147" expanded="true" signature="1925:1929" ph="true" />
+            <marker date="1521221158147" expanded="true" signature="1987:2007" ph="%mailer_transport%" />
+            <marker date="1521221158147" expanded="true" signature="2018:2033" ph="%mailer_host%" />
+            <marker date="1521221158147" expanded="true" signature="2048:2063" ph="%mailer_user%" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/routing.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/services.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/AppKernel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding>
+            <marker date="1521221705429" expanded="true" signature="232:1450" ph="{...}" />
+            <marker date="1521221705429" expanded="true" signature="259:850" ph="..." />
+            <marker date="1521221705429" expanded="true" signature="925:1417" ph="..." />
+            <marker date="1521221705429" expanded="true" signature="1223:1407" ph="..." />
+            <marker date="1521221705429" expanded="true" signature="1484:1520" ph="{...}" />
+            <marker date="1521221705429" expanded="true" signature="1555:1638" ph="{...}" />
+            <marker date="1521221705429" expanded="true" signature="1671:1728" ph="{...}" />
+            <marker date="1521221705429" expanded="true" signature="1834:2099" ph="..." />
+            <marker date="1521221705429" expanded="true" signature="1874:2098" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Commerce/AdminBundle/Controller/DefaultController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="14" column="39" lean-forward="false" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="33" lean-forward="false" selection-start-line="32" selection-start-column="33" selection-end-line="32" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
