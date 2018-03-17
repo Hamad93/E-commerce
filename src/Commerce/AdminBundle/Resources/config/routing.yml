@@ -1,8 +1,5 @@
 commerce_user:
-    resource: "@CommerceUserBundle/Resources/config/routing.yml"
-    prefix:   /user
-
-
+    resource: "@CommerceUserBundle/Resources/config/routing/all.xml"
 
 commerce_admin_homepage:
     path:     /
