@@ -16,8 +16,8 @@ class AppKernel extends Kernel
             new Symfony\Bundle\SwiftmailerBundle\SwiftmailerBundle(),
             new Doctrine\Bundle\DoctrineBundle\DoctrineBundle(),
             new Sensio\Bundle\FrameworkExtraBundle\SensioFrameworkExtraBundle(),
-//            new Http\HttplugBundle\HttplugBundle(), // If you require the php-http/httplug-bundle package.
-//            new HWI\Bundle\OAuthBundle\HWIOAuthBundle(),
+            new Http\HttplugBundle\HttplugBundle(), // If you require the php-http/httplug-bundle package.
+            new HWI\Bundle\OAuthBundle\HWIOAuthBundle(),
             new FOS\UserBundle\FOSUserBundle(),
             new Commerce\UserBundle\CommerceUserBundle(),
             new Commerce\AdminBundle\CommerceAdminBundle(),

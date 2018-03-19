@@ -1,7 +1,5 @@
 # This file is auto-generated during the composer install
 parameters:
-    googleplus_client_id: 250317112528-5nltic7d072qd3h0kfs99m9gfgan50j7.apps.googleusercontent.com
-    googleplus_secret: eEOZJPXzq0hBIHAH_Zf6pb5t
     database_host: 127.0.0.1
     database_port: null
     database_name: ecommerce
@@ -12,3 +10,7 @@ parameters:
     mailer_user: Stageinfo73S@gmail.com
     mailer_password: StageInfo73S2017
     secret: ThisTokenIsNotSoSecretChangeIt
+
+    googleplus_id: 250317112528-5nltic7d072qd3h0kfs99m9gfgan50j7.apps.googleusercontent.com
+    googleplus_access_token: eEOZJPXzq0hBIHAH_Zf6pb5t
+
