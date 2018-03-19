@@ -11,6 +11,8 @@ security:
     providers:
         fos_userbundle:
             id:    fos_user.user_provider.username_email
+#            id:    fos_user.user_manager
+
         in_memory:
             memory: ~
 
@@ -19,7 +21,6 @@ security:
         dev:
             pattern: ^/(_(profiler|wdt)|css|images|js)/
             security: false
-
         main:
             pattern: ^/
             form_login:
