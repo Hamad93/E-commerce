@@ -6,7 +6,7 @@
  * Time: 17:47
  */
 
-namespace FOS\UserBundle\Security;
+namespace Commerce\UserBundle\Security;
 
 use HWI\Bundle\OAuthBundle\OAuth\Response\UserResponseInterface;
 use HWI\Bundle\OAuthBundle\Security\Core\User\FOSUBUserProvider as BaseClass;

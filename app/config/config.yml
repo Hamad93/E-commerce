@@ -99,3 +99,6 @@ hwi_oauth:
             client_id:           "%googleplus_id%"
             client_secret:       "%googleplus_access_token%"
             scope:               "https://www.googleapis.com/auth/userinfo.email https://www.googleapis.com/auth/userinfo.profile"
+            options:
+                display: popup #dialog is optimized for popup window
+                csrf: true
