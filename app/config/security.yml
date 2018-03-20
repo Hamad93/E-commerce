@@ -26,6 +26,8 @@ security:
             form_login:
                 provider:    fos_userbundle
                 csrf_token_generator:   security.csrf.token_manager
+                login_path:    fos_user_security_login
+                check_path:    fos_user_security_check
             oauth:
                 resource_owners:
                     google:             "/login/check-google"
@@ -36,7 +38,9 @@ security:
                     #this is my custom user provider, created from FOSUBUserProvider - will manage the
                     #automatic user registration on your site, with data from the provider (facebook. google, etc.)
                     service: my_user_provider
-            logout:    true
+            logout:
+                path:   fos_user_security_logout
+                target:   /
             anonymous:    true
         login:
             pattern:  ^/login$
@@ -48,6 +52,7 @@ security:
                 path: /
                 domain: ~ # Defaults to the current domain from $_SERVER
             # activate different ways to authenticate
+
 
             # https://symfony.com/doc/current/security.html#a-configuring-how-your-users-will-authenticate
             #http_basic: ~
