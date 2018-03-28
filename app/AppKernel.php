@@ -21,6 +21,7 @@ class AppKernel extends Kernel
             new FOS\UserBundle\FOSUserBundle(),
             new Commerce\UserBundle\CommerceUserBundle(),
             new Commerce\AdminBundle\CommerceAdminBundle(),
+            new Commerce\HwiconnexionBundle\CommerceHwiconnexionBundle(),
         ];
 
         if (in_array($this->getEnvironment(), ['dev', 'test'], true)) {

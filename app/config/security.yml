@@ -30,6 +30,7 @@ security:
                 check_path:    fos_user_security_check
             oauth:
                 resource_owners:
+                    facebook:           "https://hammady.info/login/check-facebook"
                     google:             "/login/check-google"
                 login_path:        /login
                 failure_path:      /login

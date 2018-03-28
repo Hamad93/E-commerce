@@ -3,9 +3,9 @@
 -- https://www.phpmyadmin.net/
 --
 -- Client :  127.0.0.1
--- Généré le :  Lun 19 Mars 2018 à 11:21
+-- Généré le :  Mer 21 Mars 2018 à 13:55
 -- Version du serveur :  5.7.14
--- Version de PHP :  5.6.25
+-- Version de PHP :  7.0.10
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 SET time_zone = "+00:00";
@@ -40,15 +40,17 @@ CREATE TABLE `fos_user` (
   `password_requested_at` datetime DEFAULT NULL,
   `roles` longtext COLLATE utf8_unicode_ci NOT NULL COMMENT '(DC2Type:array)',
   `googleplus_id` varchar(255) COLLATE utf8_unicode_ci DEFAULT NULL,
-  `googleplus_access_token` varchar(255) COLLATE utf8_unicode_ci DEFAULT NULL
+  `googleplus_access_token` varchar(255) COLLATE utf8_unicode_ci DEFAULT NULL,
+  `facebook_id` varchar(255) COLLATE utf8_unicode_ci DEFAULT NULL,
+  `facebook_id_access_token` varchar(255) COLLATE utf8_unicode_ci DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
 
 --
 -- Contenu de la table `fos_user`
 --
 
-INSERT INTO `fos_user` (`id`, `username`, `username_canonical`, `email`, `email_canonical`, `enabled`, `salt`, `password`, `last_login`, `confirmation_token`, `password_requested_at`, `roles`, `googleplus_id`, `googleplus_access_token`) VALUES
-(1, 'alaye', 'alaye', 'alayediallo51@gmail.com', 'alayediallo51@gmail.com', 1, NULL, '$2y$13$RK9zrW2iydVZYw4ZCE0wv.qsanX4oP/l.3.kxKVDX5AzKDIrhxpWu', '2018-03-17 00:14:51', NULL, NULL, 'a:0:{}', NULL, NULL);
+INSERT INTO `fos_user` (`id`, `username`, `username_canonical`, `email`, `email_canonical`, `enabled`, `salt`, `password`, `last_login`, `confirmation_token`, `password_requested_at`, `roles`, `googleplus_id`, `googleplus_access_token`, `facebook_id`, `facebook_id_access_token`) VALUES
+(1, 'alaye', 'alaye', 'alayediallo51@gmail.com', 'alayediallo51@gmail.com', 1, NULL, '$2y$13$RK9zrW2iydVZYw4ZCE0wv.qsanX4oP/l.3.kxKVDX5AzKDIrhxpWu', '2018-03-20 09:45:18', NULL, NULL, 'a:0:{}', NULL, NULL, NULL, NULL);
 
 --
 -- Index pour les tables exportées

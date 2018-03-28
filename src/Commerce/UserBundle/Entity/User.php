@@ -22,12 +22,22 @@ class User extends BaseUser
     /**
      * @ORM\Column(type="string",length=255,nullable=true)
      */
-    protected $googleplus_id;
+    protected $googleId;
 
     /**
      * @ORM\Column(type="string",length=255,nullable=true)
      */
-    protected $googleplus_access_token;
+    protected $google_access_token;
+
+    /**
+     * @ORM\Column(type="string",length=255,nullable=true)
+     */
+    protected $facebookId;
+
+    /**
+     * @ORM\Column(type="string",length=255,nullable=true)
+     */
+    protected $facebook_access_token;
     
 
     public function __construct()
@@ -37,50 +47,67 @@ class User extends BaseUser
     }
 
     /**
-     * Set googleplusId
-     *
-     * @param string $googleplusId
-     *
-     * @return User
+     * @return mixed
      */
-    public function setGoogleplusId($googleplusId)
+    public function getGoogleId()
     {
-        $this->googleplus_id = $googleplusId;
-
-        return $this;
+        return $this->googleId;
     }
 
     /**
-     * Get googleplusId
-     *
-     * @return string
+     * @param mixed $googleId
      */
-    public function getGoogleplusId()
+    public function setGoogleId($googleId)
     {
-        return $this->googleplus_id;
+        $this->googleId = $googleId;
     }
 
     /**
-     * Set googleplusAccessToken
-     *
-     * @param string $googleplusAccessToken
-     *
-     * @return User
+     * @return mixed
      */
-    public function setGoogleplusAccessToken($googleplusAccessToken)
+    public function getGoogleAccessToken()
     {
-        $this->googleplus_access_token = $googleplusAccessToken;
-
-        return $this;
+        return $this->google_access_token;
     }
 
     /**
-     * Get googleplusAccessToken
-     *
-     * @return string
+     * @param mixed $google_access_token
      */
-    public function getGoogleplusAccessToken()
+    public function setGoogleAccessToken($google_access_token)
     {
-        return $this->googleplus_access_token;
+        $this->google_access_token = $google_access_token;
     }
+
+    /**
+     * @return mixed
+     */
+    public function getFacebookId()
+    {
+        return $this->facebookId;
+    }
+
+    /**
+     * @param mixed $facebookId
+     */
+    public function setFacebookId($facebookId)
+    {
+        $this->facebookId = $facebookId;
+    }
+
+    /**
+     * @return mixed
+     */
+    public function getFacebookAccessToken()
+    {
+        return $this->facebook_access_token;
+    }
+
+    /**
+     * @param mixed $facebook_access_token
+     */
+    public function setFacebookAccessToken($facebook_access_token)
+    {
+        $this->facebook_access_token = $facebook_access_token;
+    }
+    
 }

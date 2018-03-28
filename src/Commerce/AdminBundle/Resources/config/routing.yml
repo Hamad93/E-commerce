@@ -5,6 +5,10 @@ commerce_admin_homepage:
     path:     /
     defaults: { _controller: CommerceAdminBundle:Default:index }
 
+commerce_hwiconnexion:
+    resource: "@CommerceHwiconnexionBundle/Resources/config/routing.xml"
+    prefix:   /
+
 hwi_oauth_security:
     resource: "@HWIOAuthBundle/Resources/config/routing/login.xml"
     prefix: /login
@@ -16,4 +20,3 @@ hwi_oauth_connect:
 hwi_oauth_redirect:
     resource: "@HWIOAuthBundle/Resources/config/routing/redirect.xml"
     prefix:   /login
-

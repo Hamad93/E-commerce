@@ -94,6 +94,14 @@ hwi_oauth:
             facebook: facebook_id
             google: google_id
     resource_owners:
+        facebook:
+            type:                facebook
+            client_id:           "%facebook_id%"
+            client_secret:       "%facebook_access_token%"
+            scope:               "email"
+            options:
+                display: popup
+                auth_type: rerequest
         google:
             type:                google
             client_id:           "%googleplus_id%"
